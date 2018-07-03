@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  project2.cpp
+c:\users\mimad\documents\maheshimaduwa\cmp_sci_2250\projects\project2\project2\project2.cpp(115): warning C4018: '<': signed/unsigned mismatch
+c:\users\mimad\documents\maheshimaduwa\cmp_sci_2250\projects\project2\project2\project2.cpp(133): warning C4018: '<': signed/unsigned mismatch
+c:\users\mimad\documents\maheshimaduwa\cmp_sci_2250\projects\project2\project2\project2.cpp(160): warning C4018: '<': signed/unsigned mismatch
+  project2.vcxproj -> C:\Users\mimad\Documents\MaheshImaduwa\CMP_SCI_2250\Projects\project2\Debug\project2.exe
+  project2.vcxproj -> C:\Users\mimad\Documents\MaheshImaduwa\CMP_SCI_2250\Projects\project2\Debug\project2.pdb (Partial PDB)
